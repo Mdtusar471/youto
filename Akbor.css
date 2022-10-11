@@ -1,0 +1,22 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: red;
+}
+h1{
+  color:#ffffff;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  background-color: #d3c;
+}
+h3{
+  color:#cdc;
+  background-color: #927939;
+  text-align:center;
+}
+h4{
+  background-color: #c2c2;
+  text-align:center;
+}
